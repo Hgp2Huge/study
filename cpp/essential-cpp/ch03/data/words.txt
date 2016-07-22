@@ -1,3 +1,0 @@
-Write a program to read a text file
-Store each word in a map
-The key value of the map is the count of the number of times the word appears in the text
