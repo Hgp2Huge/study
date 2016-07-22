@@ -1,4 +1,2 @@
-Essential C++
-======
-
+# Essential C++
 
